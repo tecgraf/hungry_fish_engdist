@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Leonardo Machado",
+    "asset": "leonardo_machado.jpg"
+  },
+  {
+  "name":"Rafael Pablo",
+  "asset":"rafael-pablo.jpg"
+  },
+  {
+  "name":"Alex",
+  "asset":"alex-junca.jpg"
+  }
+  ,
+  {
+  "name":"Bernado Lopes",
+  "asset":"bernado-lopes.png"
+  },
+  {
+  "name":"Daniel Menezes",
+  "asset":"daniel-menezes.jpg"
+  },
+  {
+  "name":"Francisco",
+  "asset":"francisco.jpg"
+  }
+  ]
