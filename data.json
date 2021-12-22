@@ -1,39 +1,62 @@
 [
-{
-    "name": "Ana",
-    "asset": "analodi.jpg"
-  },
-{
-    "name": "Miguel Boing",
-    "asset": "miguel-boing.jpg"
-  },
-{
-    "name": "Leila Dantas",
-    "asset": "leila-dantas.jpg"
-  },
-  {
-    "name": "Leonardo Machado",
-    "asset": "leonardo_machado.jpg"
-  },
-  {
-  "name":"Rafael Pablo",
-  "asset":"rafael-pablo.jpg"
-  },
-  {
-  "name":"Alex",
-  "asset":"alex-junca.jpg"
-  }
-  ,
-  {
-  "name":"Bernardo Lopes",
-  "asset":"bernardo.jpg"
-  },
-  {
-  "name":"Daniel Menezes",
-  "asset":"daniel-menezes.jpg"
-  },
-  {
-  "name":"Francisco",
-  "asset":"francisco.jpg"
-  }
-  ]
+   {
+      "name":"Aldo",
+      "asset":"aldo.jpg"
+   },
+   {
+      "name":"Paulo Moreira",
+      "asset":"paulo.jpg"
+   },
+   {
+      "name":"Daniel Stulberg",
+      "asset":"stulberg.jpg"
+   },
+   {
+      "name":"Bernardo Breder",
+      "asset":"breder.jpg"
+   },
+   {
+      "name":"Katia",
+      "asset":"katia.jpg"
+   },
+   {
+      "name":"Tito",
+      "asset":"tito.jpg"
+   },
+   {
+      "name":"Ana",
+      "asset":"analodi.jpg"
+   },
+   {
+      "name":"Miguel Boing",
+      "asset":"miguel-boing.jpg"
+   },
+   {
+      "name":"Leila Dantas",
+      "asset":"leila-dantas.jpg"
+   },
+   {
+      "name":"Leonardo Machado",
+      "asset":"leonardo_machado.jpg"
+   },
+   {
+      "name":"Rafael Pablo",
+      "asset":"rafael-pablo.jpg"
+   },
+   {
+      "name":"Alex",
+      "asset":"alex-junca.jpg"
+   },
+   {
+      "name":"Bernardo Lopes",
+      "asset":"bernardo.jpg"
+   },
+   {
+      "name":"Daniel Menezes",
+      "asset":"daniel-menezes.jpg"
+   },
+   {
+      "name":"Francisco",
+      "asset":"francisco.jpg"
+   }
+]
